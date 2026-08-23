@@ -25,7 +25,7 @@ Windows(Windows 10)、Intel Mac(macOS Sequoia)及びLinux(Ubuntu 22.04)環境に
 
 Mac環境における利用の場合には、次の記事も参考にしてください。
 
-https://zenn.dev/nakamura196/articles/c62a465537ff20
+https://ldas.jp/ja/posts/using-ndl-classical-book-ocr-lite-ndlkotenocr/
 
 zipファイルを展開後、「ndlkotenocr_lite」をダブルクリックする等で実行してください。
 
